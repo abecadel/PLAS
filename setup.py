@@ -25,7 +25,8 @@ setup(
         'opencv-python',
 
         # eval/flas
-        'lap',
+        
+        #'lap',
         'matplotlib',
         'scipy'
     ],
